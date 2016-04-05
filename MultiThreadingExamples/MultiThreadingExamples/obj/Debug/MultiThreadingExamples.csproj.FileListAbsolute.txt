@@ -4,3 +4,6 @@ D:\Anshul\MVCTraining\MultiThreadingExamples\MultiThreadingExamples\bin\Debug\Mu
 D:\Anshul\MVCTraining\MultiThreadingExamples\MultiThreadingExamples\obj\Debug\MultiThreadingExamples.csprojResolveAssemblyReference.cache
 D:\Anshul\MVCTraining\MultiThreadingExamples\MultiThreadingExamples\obj\Debug\MultiThreadingExamples.exe
 D:\Anshul\MVCTraining\MultiThreadingExamples\MultiThreadingExamples\obj\Debug\MultiThreadingExamples.pdb
+D:\New Project\New folder\Project1\MultiThreadingExamples\MultiThreadingExamples\bin\Debug\MultiThreadingExamples.exe.config
+D:\New Project\New folder\Project1\MultiThreadingExamples\MultiThreadingExamples\obj\Debug\MultiThreadingExamples.exe
+D:\New Project\New folder\Project1\MultiThreadingExamples\MultiThreadingExamples\obj\Debug\MultiThreadingExamples.pdb
