@@ -9,7 +9,8 @@ namespace MultiThreadingExamples
     class Program
     {
 
-        //Feature 1
+        //Feature 1 example
+        //Feature 2
         static void Main(string[] args)
         {
             //Join example
